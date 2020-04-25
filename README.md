@@ -1,4 +1,5 @@
-# Flea Visualization v0.1-wip - Gary and Friends (See 436v Process Log Writeup.pdf for final writeup and project description)
+# Flea Visualization v0.1-wip - Gary and Friends  
+See 436v Process Log Writeup.pdf for final project writeup.
 
 # Documentation and Rationale
 All expected functionality is documented below, anything labelled WIP will describe the parts of the functionality not yet fully implemented. 

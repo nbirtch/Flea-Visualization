@@ -1,0 +1,59 @@
+
+/* Add or change the styles for all tasks in this css file */
+
+html {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin: 0px;
+}
+
+.deselect-clicked {
+  opacity: 0.3 !important;
+}
+
+.info-clicked {
+  fill: #000 !important;
+  opacity: 1 !important;
+}
+
+.graticule {
+  fill: none;
+  stroke: #bbb;
+  stroke-width: 0.5px;
+  stroke-opacity: 0.5;
+}
+
+label .index-box {
+  background: white !important;
+}
+
+.vis-ddl-overflow {
+  height: 300px;
+}
+
+.ui-button-text {
+  font-size: inherit !important;
+} 
+
+.vis-lable-font {
+  font-size: 10px !important;
+}
+
+label {
+  margin-bottom: 0px !important;
+}
+
+ul {
+  max-height: 300px !important;
+}
+
+div.tooltip {
+  position: absolute;	
+  text-align: center;	
+  width: 100px;	
+  height: 55px;		
+  padding: 2px;	
+  font: 12px sans-serif;	
+  background: rgb(60, 62, 66);	
+  border: 0px;					
+  border-radius: 4px;
+}
